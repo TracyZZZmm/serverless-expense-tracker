@@ -15,17 +15,18 @@ Backend powered by AWS Lambda, DynamoDB, and API Gateway.
 
 - **Frontend**: React, fetch API, basic CSS
 - **Backend**: AWS Lambda (Python), API Gateway (HTTP API), DynamoDB
-- **Architecture**: 100% Serverless
+- **Architecture**: 100% Serverless ![Function](./screenshots/Function_overview.png)
 
 ---
 
 ## ✨ Features
 
-- ✅ Add new expenses
+- ✅ Add new expenses ![Add](./screenshots/add.png)
 - ✅ View existing expenses
-- ✅ Delete expenses
-- ✅ Fully stateless frontend
-- ✅ API integrated with AWS Lambda via API Gateway
+- ✅ Delete expenses ![Delete](./screenshots/delete.png)
+
+- ✅ Fully stateless frontend 
+- ✅ API integrated with AWS Lambda via API Gateway ![Test](./screenshots/test_details.png)
 
 ---
 
