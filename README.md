@@ -23,7 +23,7 @@ Backend powered by AWS Lambda, DynamoDB, and API Gateway.
 ## ✨ Features
 
 - ✅ Add new expenses
-- ![Add](./screenshots/add.png)
+- ![Add](./screenshots/creat.png)
 - ✅ View existing expenses
 - ✅ Delete expenses
 - ![Delete](./screenshots/delete.png)
